@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Dsini adalah file style dimana menerapkan gaya dengan atribut style pada tampilan
+-->
+<resources>
+    <style name="Widget.Words.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textAppearance">?attr/textAppearanceHeadline4</item>
+    </style>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     disini yaitu resource file yang menampikan didalam file daftar words pada tampilan awal 1 s/d
+     10
+-->
+<resources>
+    <string-array name="words">
+        <item>1. Python </item>
+        <item>2. Kotlin </item>
+        <item>3. JDK </item>
+        <item>4. JAVA</item>
+        <item>5. C++</item>
+        <item>6. SQL </item>
+        <item>7. PHP</item>
+        <item>8. Java Script</item>
+        <item>9. Pascal</item>
+        <item>10. Delphi</item>
+    </string-array>
+</resources>
