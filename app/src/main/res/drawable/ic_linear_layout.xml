@@ -16,9 +16,9 @@
 -->
 <!-- Menu asset to indicate clicking will switch to a vertical list of items for the RecyclerView -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="28dp"
-    android:height="28dp"
-    android:tint="#FFFFFF"
+    android:width="40dp"
+    android:height="40dp"
+    android:tint="#ffffff"
     android:viewportWidth="24"
     android:viewportHeight="24">
     <path

@@ -15,6 +15,7 @@ juga digunakan untuk melakukan berbagai kegiatan yang diperlukan di dalam aplika
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="@drawable/img"
         android:clipToPadding="false"
         android:padding="16dp" />
 </FrameLayout>

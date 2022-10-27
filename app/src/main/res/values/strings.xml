@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
      Disini menampilkan tipe data string yang ditampilkan di app sesuai dengan position yang sudah di
      tetapkan
 -->
 <resources>
     <string name="app_name">Bahasa Pemrograman</string>
-    <string name="detail_prefix">Bahasa Pemrograman</string>
+    <string name="detail_prefix">Bahasa</string>
     <string name="action_switch_layout">Switch Layout</string>
     <string name="look_up_word">Look up word in a Browser Search</string>
     <string name="look_up_words">Show Stored Words</string>

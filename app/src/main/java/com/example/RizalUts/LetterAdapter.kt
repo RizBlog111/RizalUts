@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.wordsapp
+package com.example.RizalUts
 
 import android.content.Intent
 import android.os.Build
@@ -27,16 +27,15 @@ import androidx.recyclerview.widget.RecyclerView
 
 
 /**
- * Adapter for the [RecyclerView] in [MainActivity].
+ * Adapter untuk [RecyclerView] di dalam [MainActivity].
  */
 class LetterAdapter :
     RecyclerView.Adapter<LetterAdapter.LetterViewHolder>() {
 
-    // menampilkan dari '1' hingga '10' dan merubah menjadi daftar
-    private val list = (1).rangeTo(10).toList()
-
+    // menampilkan array pilihan
+    private val list = arrayOf("Python","Kotlin","JDK","JAVA","C++")
     /**
-     * Memberikan referensi untuk tampilan yang diperlukan untuk menampilkan item dalam daftar Anda.
+     * Memberikan referensi untuk tampilan yang diperlukan untuk menampilkan item dalam daftar .
      */
     class LetterViewHolder(val view: View) : RecyclerView.ViewHolder(view) {
         val button = view.findViewById<Button>(R.id.button_item)

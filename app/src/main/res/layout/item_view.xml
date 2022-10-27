@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Layout item disini adalah tampilan view pada layout yang ada pada aplikasi
+     Layout item disini adalah tampilan view daftar list pada layout yang ada pada aplikasi
 -->
 <Button xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/button_item"
