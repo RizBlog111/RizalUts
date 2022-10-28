@@ -3,7 +3,7 @@
      tetapkan
 -->
 <resources>
-    <string name="app_name">Bahasa Pemrograman</string>
+    <string name="app_name">MochamadRizal_UTS</string>
     <string name="detail_prefix">Bahasa</string>
     <string name="action_switch_layout">Switch Layout</string>
     <string name="look_up_word">Look up word in a Browser Search</string>
